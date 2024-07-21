@@ -1,7 +1,7 @@
 ### Oie! Aqui é a Raquel :)
 - 👩🏻‍💻 A procura do primeiro emprego na área de tecnologia
 - 👩🏻‍🎓 Estudando Programação orientada a objetos
-- 📚 2/8 Engenharia de Software
+- 📚 3/8 Engenharia de Software
 - 🪐 Pronomes: ela/dela
 
 
