@@ -1,5 +1,5 @@
 ### Oie! Aqui é a Raquel :)
-- 👩🏻‍💻 A procura do primeiro emprego na área de tecnologia
+- 👩🏻‍💻 Estagiaria em Testes
 - 👩🏻‍🎓 Estudando Programação orientada a objetos
 - 📚 3/8 Engenharia de Software
 - 🪐 Pronomes: ela/dela
