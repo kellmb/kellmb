@@ -1,7 +1,7 @@
 ### Oie! Aqui é a Raquel :)
 - 👩🏻‍💻 Estagiaria em Testes
 - 👩🏻‍🎓 Estudando Programação orientada a objetos
-- 📚 3/8 Engenharia de Software
+- 📚 4/8 Engenharia de Software
 - 🪐 Pronomes: ela/dela
 
 
